@@ -3,7 +3,11 @@ layout: post
 title:  "Write a unit test using jest in Vue/Typescript project"
 date:   2020-01-27 18:06:00 +0900
 categories:
-- [jest, unit-test, typescript]
+- [Testing]
+tag:
+- jest
+- unit-test
+- typescript
 ---
 
 Writing a unit test is really required to insure functions expected operation. During this task some unnoticed bugs can be found, so we can fix it before even deploying.

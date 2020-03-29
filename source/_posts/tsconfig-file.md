@@ -3,7 +3,11 @@ layout: post
 title:  "Vuejs+Typescript: What is a tsconfig.json file under /src?"
 date:   2020-02-28 21:21:00 +0900
 categories:
-- [typescript, tsconfig, config]
+- [typescript, VueJS]
+tag:
+- typescript 
+- tsconfig 
+- config
 ---
 
 If you using VueJs with Typescript, must have wondered `tsconfig.json` file under root dir of the project. Well, that is a configuration file for transpiling and compiling Typescript files.

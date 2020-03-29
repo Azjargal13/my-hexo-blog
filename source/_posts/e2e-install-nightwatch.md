@@ -3,7 +3,11 @@ layout: post
 title:  "End-to-End testing framework NightWatchJs: installation and config step by step"
 date:   2020-01-08 11:41:00 +0900
 categories: 
-- [e2e-test, testing, nightwatch]
+- [Testing]
+tag:
+- e2e-test 
+- testing 
+- nightwatch
 ---
 
 Let's dive more into NightWatchJs end-to-end testing tool by installing it first and set config. 

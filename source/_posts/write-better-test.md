@@ -3,7 +3,11 @@ layout: post
 title:  "How to write better unit testing using jest and vue-test-utils?"
 date:   2020-02-4 17:21:00 +0900
 categories: 
-- [unit-test, vue-test-utils, jest]
+- [Testing]
+tag:
+- unit-test 
+- vue-test-utils
+- jest
 ---
 
 Writing a unit test is vital process of any software or application development. Without unit testing it is way difficult to assure that given function or method is working as expected or not. Instead, writing a test and its failure  makes us to debug and lead some improvements of the function or method.

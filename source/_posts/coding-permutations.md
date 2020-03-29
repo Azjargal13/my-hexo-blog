@@ -3,7 +3,11 @@ layout: post
 title:  "Competitive coding: Permutation generating using recursive function"
 date:   2020-02-11 22:21:00 +0900
 categories: 
-- [recursion competitive-coding permutation]
+- [Competitive coding]
+tag:
+- recursion 
+- competitive-coding 
+- permutation
 ---
 
 # Competitive coding from Leetcode

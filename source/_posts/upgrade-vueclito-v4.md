@@ -3,7 +3,11 @@ layout: post
 title:  "How to upgrade vue-cli v3 to vue-cli v4"
 date:   2020-01-30 17:16:00 +0900
 categories: 
-- [vue-cli4, cli, vuejs]
+- [VueJS]
+tag:
+- vue-cli4
+- vue-cli
+-  vuejs
 ---
 
 We agree that vue-cli standard tooling package for VueJs project is super useful, as it reduces complicated configuration of vue project setting.

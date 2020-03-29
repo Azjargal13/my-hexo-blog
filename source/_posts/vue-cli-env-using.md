@@ -3,7 +3,11 @@ layout: post
 title:  "Using environment variables (env) in VueJS project with `vue-cli-3`"
 date:   2020-01-10 14:52:00 +0900
 categories: 
-- [vue-cli3, env-var, vuejs]
+- [VueJS]
+tag:
+- vue-cli3
+- env-var
+- vuejs
 ---
 Environment variable is super useful variable that can be used in project level usage, means in any file this variables can be called and used. Such as API secret key, base url are used global (project) level in most of the project, so it can be used as env var. Additionally, it is advised to use some confidential value including API secret key should be kept as `local env` var.
 

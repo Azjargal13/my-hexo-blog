@@ -3,7 +3,12 @@ layout: post
 title:  "Let's add some documentation to stories using @storybook-addon-docs"
 date:   2020-01-17 17:00:00 +0900
 categories: 
-- [storybook, addon-docs, addon, vuejs]
+- [storybook]
+tag:
+- storybook
+- addon-docs
+- addon
+- vuejs
 ---
 
 # What is storybook?

@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: post category
 title:  "Why HTML video element's event listening really matters? "
 date:   2020-02-05 18:11:00 +0900
 categories: 
-- [html, dom, video-event]
+- [HTML DOM Window]
+tag: 
+- html 
+- dom 
+- videoevent
 ---
 
 As a FE developer, we have often times have to work with native HTML DOM elements, and manipulate or set its values to our desired one.

@@ -3,7 +3,11 @@ layout: post
 title:  "End-to-End testing with NightWatchJs"
 date:   2020-01-07 15:30:00 +0900
 categories:
-- [e2e-test, testing, nightwatch]
+- [Testing]
+tag:
+- e2e-test
+- testing 
+- nightwatch
 ---
 
 At any point, we as a FE developers have to test web application's smooth flow by applying either end-to-end test or any type of functional or integrated testing.

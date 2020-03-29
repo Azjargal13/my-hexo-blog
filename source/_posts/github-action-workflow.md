@@ -3,7 +3,11 @@ layout: post
 title:  "Simple github action workflow of npm execution (basic workflow)"
 date:   2020-01-06 14:50:00 +0900
 categories: 
-- [github, npm, git-action]
+- [github]
+tag:
+- github 
+- npm 
+- git-action
 ---
 
 As recently `github` announced some very useful feature, automatic workflow execution which can simplify project life cycle and forever running CI/CD.

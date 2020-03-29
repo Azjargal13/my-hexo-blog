@@ -2,7 +2,12 @@
 layout: post
 title:  "Which one to use for timers? setInterval or setTimeout"
 date:   2020-02-27 21:21:00 +0900
-categories: timer setInterval setTimeout
+categories:
+- [HTML DOM Window]
+tag:
+- timer
+- setInterval 
+- setTimeout
 ---
 
 There are plenty of times we want our application can handle calling function periodically for over time. We normally use `setInterval` or `setTimeout` timers. But how those method actually work? which one is more suitable for my application?
