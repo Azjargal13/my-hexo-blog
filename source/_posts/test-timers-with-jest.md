@@ -2,7 +2,8 @@
 layout: post
 title:  "Write a unit test for native `timer` function using jest"
 date:   2020-02-07 16:37:00 +0900
-categories: unit-test jest test-timers
+categories:
+- [unit-test, jest, test-timers]
 ---
 # Introduction
 

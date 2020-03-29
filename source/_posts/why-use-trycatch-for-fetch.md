@@ -2,7 +2,8 @@
 layout: post
 title:  "Why we should catch errors thrown by fetch API? "
 date:   2020-02-10 16:37:00 +0900
-categories: trycatch exception fetchAPI
+categories: 
+- [trycatch, exception, fetchAPI]
 ---
 
 Fetching API is a backbone of every application that communicates with other server/app to gather data and represent in their own. But number of failure including network error or any sudden change may cause some issue where fetch not able to run properly.

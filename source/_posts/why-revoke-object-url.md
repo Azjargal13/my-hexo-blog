@@ -2,7 +2,8 @@
 layout: post
 title:  "Why need to revoke object url after creating obj URL Blob or other objects? "
 date:   2020-03-02 16:37:00 +0900
-categories: dom revokeURL best-practice
+categories: 
+- [dom, revokeURL, best-practice]
 ---
 
 As we use File, Blob other other media related objects to display them in web page. Generally `createObjectURL` is used to fulfill this task. Indeed this is very useful as it generated DOMstring containing a url to represent object.

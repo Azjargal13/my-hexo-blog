@@ -2,7 +2,8 @@
 layout: post
 title:  "Why HTML video element's event listening really matters? "
 date:   2020-02-05 18:11:00 +0900
-categories: hmtl dom video event
+categories: 
+- [html, dom, video-event]
 ---
 
 As a FE developer, we have often times have to work with native HTML DOM elements, and manipulate or set its values to our desired one.
@@ -20,11 +21,11 @@ Detailed information refer Mozilla's [page.](https://developer.mozilla.org/en-US
 
 ## About event comparison
 
-Events | Description 
---|---
-canPlay| will buffer video data till it can be played (during video play, video properties set as default)
-loadedData | just load video frame, in this case video properties  can be configured before the video gets played
-process | after loading video frame, it is processed to buffer video data (video properties  can be configured before the video gets played)
+| Events     | Description                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| canPlay    | will buffer video data till it can be played (during video play, video properties set as default)                                  |
+| loadedData | just load video frame, in this case video properties  can be configured before the video gets played                               |
+| process    | after loading video frame, it is processed to buffer video data (video properties  can be configured before the video gets played) |
 
 The event listening plays important rules if you want to manipulate video's data. For example, onCanPlay play videos at rate of 2.(twice as faster than normal speed of video ) or invoke another function to work with video etc. 
 

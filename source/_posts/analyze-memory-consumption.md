@@ -2,7 +2,8 @@
 layout: post
 title:  "Analyzing memory consumption of the web application using Firefox developer tool"
 date:   2020-01-09 17:29:00 +0900
-categories: analyze memory dev-tool firefox
+categories: 
+- [analyze,  memory,  dev-tool, firefox]
 ---
 
 We are aware of that when application's page is loaded in the browser, it consumes some memory about ~mbs. However we are not sure how much capacity's are used and exactly what part of the function is loaded (more). In order to analyze and investigate, we can use browser's developer tool.

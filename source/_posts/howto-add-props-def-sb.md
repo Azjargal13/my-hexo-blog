@@ -2,7 +2,8 @@
 layout: post
 title:  "How to add specific definition for the prop table using storybook addon-docs? "
 date:   2020-03-03 16:37:00 +0900
-categories: storybook addon-docs props
+categories: 
+- [storybook, addon-docs, props]
 ---
 
 We're using storybook for checking out the independent components behavior, representation, also to use auto generating documentation.
