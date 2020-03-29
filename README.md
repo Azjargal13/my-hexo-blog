@@ -1,4 +1,4 @@
-# Personal blog
+# Personal blog https://azjargal.netlify.com/
 
 Hi there :wave:
 
