@@ -10,7 +10,7 @@ tag:
 - array
 - python3
 ---
-This post is continuation of LC weekly contest 183, task 1 is published [here]("../../lc-weekly-contest-task1.md"), and task 2 is published [here](lc-weekly-contest-task2.md).
+This post is continuation of LC weekly contest 183, task 1 is published [here]("../../lc-weekly-contest-task1.md"), and task 2 is published [here]("../../lc-weekly-contest-task2.md).
 
 # Task3: 1405. Longest Happy String (medium level)
 

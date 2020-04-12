@@ -16,7 +16,7 @@ After quite a long time, I've joined online competitive coding contest, Leetcode
 # Task 1: LC 1403. Minimum Subsequence in Non-Increasing Order (easy level)
 
 ## Problem statement
-`LC-no 403. Minimum Subsequence in Non-Increasing Order (easy level)`
+`LC-no 1403. Minimum Subsequence in Non-Increasing Order (easy level)`
 
 Given the array nums, obtain a subsequence of the array whose sum of elements is strictly greater than the sum of the non included elements in such subsequence. 
 
